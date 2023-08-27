@@ -1,7 +1,7 @@
 # How javascript works ?
 ### 1-engine
 ### 2-lexical analysis 
-#### 1- scsning -> parser -> tokens or chunks (tokenization)   تكسير الكود لأجزاء مصغرة
+#### 1- scanning -> parser -> tokens or chunks (tokenization)   تكسير الكود لأجزاء مصغرة
 #### 2- parser -> ignore comments and spaces 
 #### 3- error handling
 #### 4- token stream
